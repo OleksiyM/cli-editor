@@ -1,0 +1,1 @@
+cd cmd/editor && go build -o ../../cli-editor main.goch

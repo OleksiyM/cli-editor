@@ -1,0 +1,7 @@
+.DS_Store
+.ropeproject/
+/editor
+/cli-editor
+/l.txt
+/nano
+*.save
